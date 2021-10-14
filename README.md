@@ -4,6 +4,7 @@
 
 
 <b>Aula 2</b>
+
 Será desenvolvido um contador de palavras simples
 
 <b>Aula 3</b>
