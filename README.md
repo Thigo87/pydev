@@ -2,11 +2,14 @@
 
 <b>Aula 1</b>
 
-  Nesta aula será abordado os seguintes assuntos: /n
-    * Lógica para programar
-    * Para quê programar?
-    * Linguagens de programação
-    * Fluxograma
+  <h6>Nesta aula será abordado os seguintes assuntos: </h6>
+  <ul>
+    <li>Lógica para programar</li>
+    <li>Para quê programar?</li>
+    <li>Linguagens de programação</li>
+    <li>Fluxograma</li>
+  </ul>
+   
    
    Também será abordado o que será necessario para acompanhar as próximas aulas.
 
