@@ -15,7 +15,8 @@
 
 <b>Aula 2</b>
 
-Será desenvolvido um contador de palavras simples
+Aula sobre operadores e variáveis
+Ao final será desenvolvido um contador de palavras simples
 
 <b>Aula 3</b>
 
