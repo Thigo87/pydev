@@ -21,4 +21,4 @@
 <b>Aula 3</b>
 
 Irei utilizar slides e o jogo que mandei para poder apresentar o conteúdo (:
-Assim que eu finaliza-los uparei aqui
+
