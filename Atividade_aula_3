@@ -1,0 +1,26 @@
+Nós já vimos como criar um programa para verificar a idade do cliente !
+
+Mas e se precisarmos verificar se o valor que ele entregou foi o suficiente para o ingresso ?
+
+Agora é com vocês!!!!
+
+lista_de_clientes_2 = [['Isabel', 16, 10],
+                       ['Matheus', 12, 15],
+                       ['Pedro', 16, 12],
+                       ['Helena', 15, 14],
+                       ['Heitor', 18, 20],
+                       ['Helizia', 80, 50],
+                       ['Hiago', 12, 60],
+                       ['Ada', 5, 5],
+                       ['João', 10, 16],
+                       ['Carlos', 50, 29],
+                       ['jonas', 20, 30],
+                       ['joão2', 12, 20],
+                       ['marcos', 14, 90],
+                       ['felipe', 60, 50],
+                       ['Barros', 10, 30],
+                       ['Gabriel', 112, 20],
+                       ['Lain', 13, 11]]
+
+
+dica: Use um ELIF !
