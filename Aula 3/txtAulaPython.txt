@@ -1,0 +1,41 @@
+O que precisamos saber para realizar esta atividade:
+
+(1)	Ler elementos dentro de listas pelo índice
+	
+(2)	Conseguir trabalhar com a estrutura "while" e "if - else"
+	
+(3)	Usar a função randrange da biblioteca random
+
+#------------------------------------------------------------------------------------------------#
+
+#DADOS DA ATIVIDADE - 1
+
+#Listas de clientes
+
+lista_de_clientes_1 = [['Isabel', 16], ['Matheus', 12], ['Pedro', 16], ['Helena', 15]]
+
+#Estrutura: NOME - IDADE
+#------------------------------------------------------------------------------------------------#
+
+#DADOS DA ATIVIDADE - 1
+
+#Listas de clientes
+
+
+lista_de_clientes_2 = [['Isabel', 16],
+                       ['Matheus', 12],
+                       ['Pedro', 16],
+                       ['Helena', 15],
+                       ['Heitor', 18],
+                       ['Helizia', 80],
+                       ['Hiago', 12],
+                       ['Ada', 5],
+                       ['João', 10],
+                       ['Carlos', 50],
+                       ['jonas', 20],
+                       ['joão2', 12],
+                       ['marcos', 14],
+                       ['felipe', 60],
+                       ['Barros', 10],
+                       ['Gabriel', 112],
+                       ['Lain', 13]]
